@@ -1150,7 +1150,7 @@ CREATE TABLE PairwiseFeatures (
 
 ---
 
-## Implementation Workstreams (No Calendar)
+## Implementation Workstreams
 
 Workstreams can run in parallel with clear interfaces and contracts.
 
